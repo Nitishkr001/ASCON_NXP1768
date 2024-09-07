@@ -1,5 +1,6 @@
 
-**ASCON Lightweight Cryptographic Algorithm on NXP LPC1768**< br / >
+**ASCON Lightweight Cryptographic Algorithm on NXP LPC1768**  
+
 This project explores the implementation of the ASCON lightweight cryptographic algorithm on the NXP LPC1768 microcontroller, demonstrating its secure communication capabilities in resource-constrained environments. ASCON’s encryption and decryption processes are optimized for efficiency, offering strong cryptographic security through careful algorithm design, code optimization, and minimal memory and power consumption.
 
 Key Features:
